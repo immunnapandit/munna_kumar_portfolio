@@ -260,7 +260,7 @@ const certifications = [
     name: "Microsoft Azure Fundamentals",
     provider: "Microsoft",
     description:
-      "AZ-900: Builds basic knowledge of cloud concepts, Azure services, security, pricing, and support for a solid Azure foundation. Also helps understand how Azure fits into real-world business scenarios.",
+      "AZ 900: Builds basic knowledge of cloud concepts, Azure services, security, pricing, and support for a solid Azure foundation. Also helps understand how Azure fits into real-world business scenarios.",
     cert_link: "/Microsoft Azure Fundamentals.pdf",
     image: "/Microsoft Azure Fundamental.png",
   },
@@ -268,7 +268,7 @@ const certifications = [
     name: "Microsoft Azure Data Fundamentals",
     provider: "Microsoft",
     description:
-      "DP-900: Provides basic knowledge of core data concepts, Azure data services, and how to work with relational, non-relational, and analytics solutions.",
+      "DP 900: Provides basic knowledge of core data concepts, Azure data services, and how to work with relational, non-relational, and analytics solutions.",
     cert_link: "/Microsoft Azure Data Fundamentals.pdf",
     image: "/Azure Data Fundamental.png",
   },
@@ -276,7 +276,7 @@ const certifications = [
     name: "Microsoft Azure AI Fundamentals",
     provider: "Microsoft",
     description:
-      "Azure AI Fundamentals (AI-900) provides basic knowledge of AI concepts, Azure AI services, and how to use them for real-world solutions without deep technical skills.",
+      "AI 900: Azure AI Fundamentals provides basic knowledge of AI concepts, Azure AI services, and how to use them for real-world solutions without deep technical skills.",
     cert_link: "/Azure AI Fundamentals.pdf",
     image: "/Azure AI Fundamental.png",
   },
@@ -284,9 +284,25 @@ const certifications = [
     name: "Microsoft 365 Fundamentals",
     provider: "Microsoft",
     description:
-    "MS-900: Introduces Microsoft 365 concepts, services, security, compliance, and pricing for understanding cloud productivity solutions.",
+    "MS 900: Introduces Microsoft 365 concepts, services, security, compliance, and pricing for understanding cloud productivity solutions.",
     cert_link: "/Microsoft 365 Fundamentals.pdf",
     image: "/Microsoft 365 Fundamentals.png",
+  },
+  {
+    name: "Microsoft Power Platform Fundamentals",
+    provider: "Microsoft",
+    description:   
+      "PL 900: Covers core Power Platform concepts, components, and capabilities for building business solutions with low-code/no-code tools.",
+    cert_link: "/Microsoft Power Platform Fundamentals.pdf",
+    image: "/Microsoft Power Platform Fundamentals.png",
+  },
+  {
+    name: "Dynamics 365: Finance and Operations Apps Developer Associate",
+    provider: "Microsoft",
+    description:
+      "MB 500: Validates skills in developing and customizing Dynamics 365 Finance and Operations apps, including X++ programming, data management, and integrations.",
+    cert_link: "/Dynamics 365 Finance and Operations Apps Developer Associate.pdf",
+    image: "/Dynamics 365 Finance and Operations Apps Developer Associate.png",
   }
 ];
 
