@@ -284,7 +284,7 @@ const certifications = [
     name: "Microsoft 365 Fundamentals",
     provider: "Microsoft",
     description:
-    "MS 900: Introduces Microsoft 365 concepts, services, security, compliance, and pricing for understanding cloud productivity solutions.",
+    "MS 900: Introduces Microsoft 365 concepts, services, security, compliance, and pricing for understanding cloud productivity solutions. Also helps understand how Microsoft 365 supports business needs. offers foundational knowledge of Microsoft 365 services compliance, and pricing to support organizational productivity.",
     cert_link: "/Microsoft 365 Fundamentals.pdf",
     image: "/Microsoft 365 Fundamentals.png",
   },
@@ -292,7 +292,7 @@ const certifications = [
     name: "Microsoft Power Platform Fundamentals",
     provider: "Microsoft",
     description:   
-      "PL 900: Covers core Power Platform concepts, components, and capabilities for building business solutions with low-code/no-code tools.",
+      "PL 900: Covers core Power Platform concepts, components, and capabilities for building business solutions with low-code/no-code tools also helps understand how Power Platform integrates with Microsoft 365 and Dynamics 365.",
     cert_link: "/Microsoft Power Platform Fundamentals.pdf",
     image: "/Microsoft Power Platform Fundamentals.png",
   },
